@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/sam_e51_cnano/production/unit_0_starter.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>1048576</length>
+      <used>6768</used>
+      <free>1041808</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>262144</length>
+      <used>774</used>
+      <free>261370</free>
+    </memory>
+  </executable>
+</project>

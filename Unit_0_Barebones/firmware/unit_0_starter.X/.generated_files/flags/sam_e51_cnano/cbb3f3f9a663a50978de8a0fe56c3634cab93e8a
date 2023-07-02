@@ -1,0 +1,1 @@
+$(MP_EXTRA_AS_PRE)  -c -mprocessor=$(MP_PROCESSOR_OPTION) -Wa,-mimplicit-it=always -Wa,--defsym=__MPLAB_BUILD=1$(MP_EXTRA_AS_POST),--gdwarf-2 -mdfp="${DFP_DIR}"C:\Users\Vito\Downloads\CISC-211-Sept-2023-main\CISC-211-Sept-2023-main\Unit_0_Barebones\firmware\src\asmFunc.s
